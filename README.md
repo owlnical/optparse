@@ -97,10 +97,10 @@ Documentation
 -------------
 
 The latest release is [documented with LDoc][github.io].
-Pre-built HTML files are included in the [release tarball][].
+Pre-built HTML files are included in the [release tarball][release].
 
 [github.io]: http://gvvaughan.github.io/optparse
-[release]: http://gvvaughan.github.io/optparse/releases
+[release]: https://github.com/gvvaughan/optparse/releases
 
 
 Bug reports and code contributions
